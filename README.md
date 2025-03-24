@@ -16,7 +16,7 @@ This project uses **MATLAB** to train a **Convolutional Neural Network (CNN)** f
 1. Clone the repository:  
 
    ```bash
-   git clone https://github.com/ridanasser/Sign-Language-Detection.git
+   git clone https://github.com/assaad19/Sign-Language-Detection.git
 
 2. Open MATLAB and navigate to the project folder:
 
@@ -45,4 +45,4 @@ Contributions are welcome! Open an issue or submit a pull request for improvemen
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, reach out via [LinkedIn](https://www.linkedin.com/in/ridanasser/) or email at [rida.nasser@outlook.com](mailto:rida.nasser@outlook.com) .
+For any inquiries, reach out via [LinkedIn](https://www.linkedin.com/in/assaad-akl-/) or email at [assaad.akl@outlook.com](mailto:assaad.akl@outlook.com) .
